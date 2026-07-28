@@ -59,7 +59,9 @@
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| Operating Systems Mastery | Operating systems (OSs) provide a solid foundation for various IT roles, including system administration, networking, cybersecurity, software development, cloud computing, and technical support | 🔄 In Progress | — |
 
 </details>
 
