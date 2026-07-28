@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/DanAlan-Tech.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/DanAlan-Tech.png" width="150" style="border-radius:50%;border:4px solid #6e7781"/>
 
 # Hi there, I'm Daniel
 
@@ -24,15 +24,15 @@
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-6e7781?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-6e7781?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-6e7781?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-6e7781?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-6e7781?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-6e7781?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-6e7781?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-6e7781?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-6e7781?style=flat-square)
 
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0969da?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-0969da?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs-0969da?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-0969da?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-0969da?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square) ![Network+](https://img.shields.io/badge/Network%2B-0969da?style=flat-square)
+🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-6e7781?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-6e7781?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-6e7781?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-6e7781?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs-6e7781?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-6e7781?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-6e7781?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-6e7781?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-6e7781?style=flat-square) ![Network+](https://img.shields.io/badge/Network%2B-6e7781?style=flat-square)
 
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0969da?style=flat-square)
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-6e7781?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-6e7781?style=flat-square)
 
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square) ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-0969da?style=flat-square) ![Risk Management](https://img.shields.io/badge/Risk%20Management-0969da?style=flat-square)
+🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-6e7781?style=flat-square) ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-6e7781?style=flat-square) ![Risk Management](https://img.shields.io/badge/Risk%20Management-6e7781?style=flat-square)
 
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-6e7781?style=flat-square)
 
 ---
 
