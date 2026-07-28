@@ -46,6 +46,10 @@
 | IT Fundamentals: Networking & Wireless Technologies | In this course, explore concepts surrounding networking and wireless technologies, including the basics of networking and Internet protocols. Next, learn about the common protocols used every day for browsing the Internet and sending emails. Finally, examine networking devices, firewalls, and wireless technologies, as well as considerations for wireless quality and wireless best practices. | 🔄 In Progress | — |
 | Networking Fundamentals | In this course, explore networking fundamentals, beginning with networking ports and protocols, TCP vs. UDP, switches and routers, access points, repeaters, and extenders. Next, learn about patch panels, firewalls, Power over Ethernet (PoE), hubs and bridges, and cable and Digital Subscriber Line (DSL) modems. Finally, examine optical network terminals (ONTs), network interface cards (NICs), software-defined networking (SDN), network topologies, and subnetting | 🔄 In Progress | — |
 | Networking Concepts & Configurations | Explore the basics of IP addressing and networking concepts such as Domain Name System (DNS) and Dynamic Host Configuration Protocol (DHCP). Begin with an overview of DNS and its benefits. Then take a closer look at the DHCP, its features, and the concept of reservations. Next, discover the use of virtual private networks (VPNs) and look at virtual local area networks (VLANs). Finally, explore the various networking tools including crimpers, Wi-Fi analyzers, and loopback plugs. | 🔄 In Progress | — |
+| At-Home Graded Lab: Perform Network Troubleshooting | — | 🔄 In Progress | — |
+| At-Home Graded Lab: Configure Remote Desktop Access | — | 🔄 In Progress | — |
+| At-Home Graded Lab: Perform Network Analysis | — | 🔄 In Progress | — |
+| At-Home Graded Lab: Gain Remote Access to a Windows System | — | 🔄 In Progress | — |
 
 </details>
 
@@ -62,6 +66,8 @@
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
 | Operating Systems Mastery | Operating systems (OSs) provide a solid foundation for various IT roles, including system administration, networking, cybersecurity, software development, cloud computing, and technical support | 🔄 In Progress | — |
+| At-Home Graded Lab: Configure Printers and External Devices | — | 🔄 In Progress | — |
+| At-Home Graded Lab: Perform a Clean Installation of Windows 10 | — | 🔄 In Progress | — |
 
 </details>
 
