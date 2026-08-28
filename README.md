@@ -7,8 +7,8 @@
 Daniel Alejandro
 
 
-*IT Professional*
- [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alandanhtx@outlook.com)
+*Aspiring IT Administrator and Security Professional*
+ 
 
 </div>
 
