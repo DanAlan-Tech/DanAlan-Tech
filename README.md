@@ -10,7 +10,7 @@
 
 *IT Professional*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40DanAlan-Tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanAlan-Tech) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alandanhtx@outlook.com)
+ [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alandanhtx@outlook.com)
 
 </div>
 
