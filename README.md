@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/DanAlan-Tech.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="[https://github.com/DanAlan-Tech.png](https://github.com/DanAlan-Tech/DanAlan-Tech/blob/main/Shucks.png?raw=true)" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
 
 
