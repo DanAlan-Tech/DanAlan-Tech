@@ -4,7 +4,7 @@
 
 <img src="https://github.com/DanAlan-Tech.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Daniel Alejandro
+#Daniel Alejandro
 
 **Daniel Alejandro**
 
