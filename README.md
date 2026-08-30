@@ -30,7 +30,7 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 
 💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-0969da?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-0969da?style=flat-square) ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square) ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-0969da?style=flat-square)
 
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-0969da?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0969da?style=flat-square)
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-0969da?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0969da?style=flat-square)  ![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0969da?style=flat-square)
 
 🛠️ Other Skills: ![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0969da?style=flat-square)
 
