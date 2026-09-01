@@ -4,13 +4,13 @@
 
 <img src="https://github.com/DanAlan-Tech.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Daniel Alejandro
+
 
 **Daniel Alejandro**
 
-*IT Professional*
+*Aspiring IT Administrator and Security Professional*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40DanAlan-Tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanAlan-Tech) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DanAlanTech@outlook.com)
+(https://github.com/DanAlan-Tech) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DanAlanTech@outlook.com)
 
 </div>
 
