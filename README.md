@@ -1,158 +1,239 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22DanAlan-Tech%22%2C%22name%22%3A%22Daniel%20Alejandro%22%2C%22email%22%3A%22DanAlanTech%40outlook.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Aspiring%20IT%20Administrator%20and%20Security%20Professional%20with%20a%20solid%20foundation%20in%20network%20infrastructure%2C%20system%20maintenance%2C%20and%20cybersecurity%20principles.%20Tech-savvy%20and%20detail-oriented%2C%20with%20hands-on%20experience%20configuring%20secure%20networks%2C%20managing%20user%20access%2C%20and%20troubleshooting%20complex%20hardware%20and%20software%20issues.%20Proven%20ability%20to%20quickly%20master%20new%20technologies%2C%20implement%20industry%20best%20practices%2C%20and%20support%20organizational%20security%20protocols.%20Committed%20to%20protecting%20digital%20assets%2C%20maximizing%20system%20uptime%2C%20and%20delivering%20high-quality%20technical%20support%20in%20a%20fast-paced%20environment.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22BIOS%2FUEFI%22%2C%22Storage%20Devices%22%2C%22Virtualization%22%2C%22Command%20Line%22%2C%22Peripheral%20Devices%22%2C%22TCP%2FIP%22%2C%22DNS%22%2C%22DHCP%22%2C%22Wi-Fi%22%2C%22VPN%22%2C%22Firewalls%22%2C%22Network%2B%22%2C%22Routing%20%26%20Switching%22%2C%22VLANs%22%2C%22Subnetting%22%2C%22Bash%20Scripting%22%2C%22PowerShell%22%2C%22Python%22%2C%22AWS%22%2C%22Microsoft%20365%22%2C%22Microsoft%20Azure%22%2C%22Linux%20CLI%22%2C%22Git%22%2C%22Microsoft%20Foundry%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%2C%22Systems%20Administrator%22%2C%22Network%20Engineer%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%7B%22name%22%3A%22Microsoft%20Foundry%22%2C%22cat%22%3A%22%F0%9F%96%A5%EF%B8%8F%20Tech%20Essentials%22%7D%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22CompTIA%20A%2B%20Core%201%3A%20Networking%20Concepts%20%26%20Configurations%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F5ef5066f-add4-470d-add7-1d1f0de7eae2%23acc.hDmt09gG%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20Tech%2B%3A%20Operating%20Systems%20Mastery%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F449032e6-38c9-44eb-9aaa-7f9e42e2731d%23acc.sKaDqR1p%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20IT%20Fundamentals%3A%20Networking%20%26%20Wireless%20Technologies%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F9f782da1-80f7-478c-9ccb-fd4bbf71b7a6%23acc.WO94ltIy%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%202%3A%20Desktop%2C%20Server%2C%20%26%20Mobile%20Operating%20Systems%20%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F1e00370b-b4d9-4936-8aab-13c34571f74c%23acc.uDXINgJx%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%201%3A%20Cable%20Types%20and%20Connectors%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F4c9102a6-2bf8-403b-a837-8371f79b340e%23acc.yFJ5jfg6%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20IT%20Fundamentals%3A%20Networking%20%26%20Wireless%20Technologies%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F9f782da1-80f7-478c-9ccb-fd4bbf71b7a6%23acc.DztdnxJ6%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%201%3A%20Networking%20Concepts%20%26%20Configurations%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F5ef5066f-add4-470d-add7-1d1f0de7eae2%23acc.RAKO2swV%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%201%3A%20Cloud%20Computing%20Concepts%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F12f6f3f3-5688-4511-9e04-b69671c024d2%23acc.vQCi2kdR%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Introduction%20to%20Programming%20Languages%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F7fa91e24-007e-45c0-9f05-98af63f5c676%23acc.Gqih9AZm%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%202%3A%20Communication%20%26%20Professionalism%20%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F7a3207b9-bba8-483c-8549-3342a0d9e604%23acc.Q180sn7O%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Making%20Difficult%20Conversations%20Meaningful%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fc15183ce-348f-45d6-b9e0-1eabd4e7be01%23acc.QVb7adep%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Pathways%20Commitment%22%2C%22issuer%22%3A%22My%20Computer%20Career%22%2C%22link%22%3A%22https%3A%2F%2Fbadges.parchment.com%2Fpublic%2Fassertions%2F6c-RAlwHQe-ZcKXje5cuXQ%3Futm_source%3Durl_copy%26identity__email%3Dalandanhtx%2540outlook.com%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Artificial%20Intelligence%20Principles%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F96d5fc3c-bdc7-4fae-8b41-83faa440f870%23acc.Ax18sGML%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Artificial%20Intelligence%20Concepts%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fb1c25fd1-3ca5-4d6f-b0e2-c42b4a9f98ea%23acc.Ks4TLxV5%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Evaluating%20Models%20in%20Azure%20AI%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fe3e1b9dc-e4de-46c6-831c-58c5d848cf58%23acc.hyDrej0J%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Machine%20Learning%20with%20Azure%20AI%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F72777b11-cd69-424c-8f6e-ae4922a7c509%23acc.tOMlEieL%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Creating%20a%20Conversational%20AI%20Bot%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F23601a26-8cde-49b0-af66-cf29f1e2640d%23acc.LZfxQTEW%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Introduction%20to%20Azure%20Machine%20Learning%20Studio%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F417d81f0-9bbe-46a9-9c7f-7a054d6469c9%23acc.EPd2NU8r%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Microsoft%20Foundry%20to%20Access%20Azure%20AI%20Services2%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Fdd2a7553-45c2-4332-a46c-d24239e2760c%23acc.GRp8tB51%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Azure%20Document%20%26%20Optical%20Character%20Recognition%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2Ffa423f98-fcdd-4248-adad-6e7e42fa8909%23acc.kKV6mBYJ%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22%20Azure%20AI%20Fundamentals%3A%20Working%20with%20AI%20Vision%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F50e7ab8d-8784-4d24-92f8-d03735b3605d%23acc.CjWgKDUb%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Azure%20Natural%20Language%20Processing%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F4d7f2504-7b8a-41ee-88ae-3f20be0e2f67%23acc.T4DXn2zW%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22%20Azure%20AI%20Engineer%20Associate%3A%20Azure%20AI%20Foundry%20and%20Language%20Studio%22%2C%22issuer%22%3A%22SkillSoft%22%2C%22link%22%3A%22https%3A%2F%2Fskillsoft.digitalbadges.skillsoft.com%2F3b260bd5-64cd-4f7f-a378-625f692b1ad8%23acc.SPecl0pZ%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Networking%20%26%20Wireless%20Technologies%22%2C%22desc%22%3A%22explore%20concepts%20surrounding%20networking%20and%20wireless%20technologies%2C%20including%20the%20basics%20of%20networking%20and%20Internet%20protocols.%20Next%2C%20learn%20about%20the%20common%20protocols%20used%20every%20day%20for%20browsing%20the%20Internet%20and%20sending%20emails.%20Finally%2C%20examine%20networking%20devices%2C%20firewalls%2C%20and%20wireless%20technologies%2C%20as%20well%20as%20considerations%20for%20wireless%20quality%20and%20wireless%20best%20practices%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Networking%20Fundamentals%22%2C%22desc%22%3A%22explore%20networking%20fundamentals%2C%20beginning%20with%20networking%20ports%20and%20protocols%2C%20TCP%20vs.%20UDP%2C%20switches%20and%20routers%2C%20access%20points%2C%20repeaters%2C%20and%20extenders.%20Next%2C%20learn%20about%20patch%20panels%2C%20firewalls%2C%20Power%20over%20Ethernet%20(PoE)%2C%20hubs%20and%20bridges%2C%20and%20cable%20and%20Digital%20Subscriber%20Line%20(DSL)%20modems.%20Finally%2C%20examine%20optical%20network%20terminals%20(ONTs)%2C%20network%20interface%20cards%20(NICs)%2C%20software-defined%20networking%20(SDN)%2C%20network%20topologies%2C%20and%20subnetting%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Configure%20Remote%20Desktop%20Access%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Perform%20Network%20Analysis%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Networking%20Concepts%20%26%20Configurations%22%2C%22desc%22%3A%22Explore%20the%20basics%20of%20IP%20addressing%20and%20networking%20concepts%20such%20as%20Domain%20Name%20System%20(DNS)%20and%20Dynamic%20Host%20Configuration%20Protocol%20(DHCP).%20Begin%20with%20an%20overview%20of%20DNS%20and%20its%20benefits.%20Then%20take%20a%20closer%20look%20at%20the%20DHCP%2C%20its%20features%2C%20and%20the%20concept%20of%20reservations.%20Next%2C%20discover%20the%20use%20of%20virtual%20private%20networks%20(VPNs)%20and%20look%20at%20virtual%20local%20area%20networks%20(VLANs).%20Finally%2C%20explore%20the%20various%20networking%20tools%20including%20crimpers%2C%20Wi-Fi%20analyzers%2C%20and%20loopback%20plugs%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Gain%20Remote%20Access%20to%20a%20Windows%20System%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Perform%20Network%20Troubleshooting%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%201%3A%20Cloud%20Computing%20Concepts%22%2C%22desc%22%3A%22In%20this%20course%2C%20learn%20about%20cloud%20computing%20concepts%2C%20beginning%20with%20the%20benefits%20of%20cloud%20computing%2C%20cloud%20services%20cost%20implications%2C%20and%20cloud%20models.%20Next%2C%20explore%20Infrastructure%20as%20a%20Service%20(IaaS)%2C%20Software%20as%20a%20Service%20(SaaS)%2C%20and%20Platform%20as%20a%20Service%20(PaaS).%20Finally%2C%20examine%20shared%20resources%20and%20file%20synchronization%2C%20measured%20and%20metered%20services%2C%20elasticity%2C%20availability%2C%20multitenancy%2C%20and%20how%20to%20create%20a%20cloud%20storage%20account.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Introduction%20to%20the%20AWS%20Cloud%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%202%3A%20Communication%20%26%20Professionalism%22%2C%22desc%22%3A%22In%20this%20course%2C%20explore%20how%20professional%20communication%2C%20cultural%20sensitivity%2C%20and%20ethical%20handling%20of%20information%20contribute%20to%20outstanding%20support%20experiences%20that%20build%20trust%20across%20diverse%20environments.%20Next%2C%20discover%20effective%20strategies%20for%20managing%20time%20wisely%2C%20documenting%20support%20interactions%20thoroughly%2C%20de-escalating%20customer%20conflicts%20gracefully%2C%20and%20creating%20intuitive%20self-service%20tools%20like%20FAQs%2C%20tutorials%2C%20and%20chatbots.%20Finally%2C%20learn%20to%20build%20strong%20rapport%20through%20active%20listening%2C%20practice%20empathetic%20and%20jargon-free%20communication%2C%20follow%20through%20with%20ownership%20of%20issues%2C%20and%20gather%20feedback%20that%20fuels%20ongoing%20improvements%20in%20service%20delivery.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Making%20Difficult%20Conversations%20Meaningful%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20learn%20steps%20to%20prepare%20yourself%20for%20handling%20difficult%20conversations.%20You%E2%80%99ll%20also%20learn%20the%20key%20elements%20of%20being%20aware%20of%20your%20emotions%20before%20a%20conversation%20goes%20out%20of%20control%20as%20well%20as%20strategies%20that%20will%20help%20you%20effectively%20tackle%20difficult%20conversations%20in%20almost%20any%20situation.%20Finally%2C%20you%E2%80%99ll%20learn%20techniques%20to%20end%20difficult%20conversations%20on%20a%20positive%20note.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%202%3A%20Desktop%2C%20Server%2C%20%26%20Mobile%20Operating%20Systems%22%2C%22desc%22%3A%22Use%20this%20course%20to%20learn%20about%20common%20OS%20types%20and%20how%20to%20perform%20OS%20installations%20and%20upgrades%20in%20a%20diverse%20OS%20environment.%20Begin%20by%20exploring%20the%20features%20of%20Windows%2C%20Linux%2C%20macOS%2C%20ChromeOS%2C%20and%20mobile%20device%20operating%20systems.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Perform%20a%20Clean%20Installation%20of%20Windows%2010%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Use%20Operating%20System%20Tools%20and%20Features%20At-Home%20Gra%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22CompTIA%20Tech%2B%3A%20Operating%20Systems%20Mastery%22%2C%22desc%22%3A%22In%20this%20course%2C%20explore%20the%20foundations%20of%20operating%20systems%2C%20including%20essential%20concepts%20and%20hands-on%20installation%20and%20configuration%20techniques%20for%20Windows%2C%20Linux%2C%20and%20macOS%20operating%20systems.%20Next%2C%20learn%20how%20to%20manage%20file%20systems%2C%20processes%2C%20and%20user%20interfaces%2C%20and%20strengthen%20security%20while%20troubleshooting%20system%20issues%20and%20understanding%20the%20interactions%20of%20hardware%20and%20software.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22CompTIA%20IT%20Fundamentals%3A%20Networking%20%26%20Wireless%20Technologies%22%2C%22desc%22%3A%22In%20this%20course%2C%20explore%20concepts%20surrounding%20networking%20and%20wireless%20technologies%2C%20including%20the%20basics%20of%20networking%20and%20Internet%20protocols.%20Next%2C%20learn%20about%20the%20common%20protocols%20used%20every%20day%20for%20browsing%20the%20Internet%20and%20sending%20emails.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22CompTIA%20A%2B%20Core%201%3A%20Networking%20Concepts%20%26%20Configurations%22%2C%22desc%22%3A%22Explore%20the%20basics%20of%20IP%20addressing%20and%20networking%20concepts%20such%20as%20Domain%20Name%20System%20(DNS)%20and%20Dynamic%20Host%20Configuration%20Protocol%20(DHCP).%20Begin%20with%20an%20overview%20of%20DNS%20and%20its%20benefits.%20Then%20take%20a%20closer%20look%20at%20the%20DHCP%2C%20its%20features%2C%20and%20the%20concept%20of%20reservations.%20Next%2C%20discover%20the%20use%20of%20virtual%20private%20networks%20(VPNs)%20and%20look%20at%20virtual%20local%20area%20networks%20(VLANs).%20Finally%2C%20explore%20the%20various%20networking%20tools%20including%20crimpers%2C%20Wi-Fi%20analyzers%2C%20and%20loopback%20plugs.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20AI%20in%20the%20IT%20Industry%3A%20Automating%20and%20Optimizing%20IT%20Operations%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Introduction%20to%20Programming%20Languages%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20discover%20the%20basics%20of%20programming%20languages%2C%20beginning%20with%20the%20file%20format%20used%20in%20programming%2C%20and%20basic%20features%20of%20various%20languages.%20Then%20you'll%20learn%20about%20the%20basic%20coding%20process%2C%20compilers%2C%20interpreters%2C%20and%20browsers%2C%20and%20the%20basic%20process%20of%20testing%20your%20programs.%20Finally%2C%20you'll%20learn%20about%20high-level%20languages%20and%20the%20various%20elements%20that%20comprise%20all%20computer%20programming%20languages.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Create%20a%20Basic%20Script%20in%20Windows%20PowerShell%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Fundamental%20AI%20Concepts%22%2C%22desc%22%3A%22This%20module%20introduces%20common%20AI%20workloads%20and%20their%20corresponding%20Azure%20AI%20Services.%20It%20also%20introduces%20Microsoft's%20Responsible%20AI%20policies.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Artificial%20Intelligence%20Concepts%22%2C%22desc%22%3A%22In%20this%20course%2C%20you%20will%20explore%20key%20concepts%20of%20AI%2C%20beginning%20with%20ML%20types.%20Then%20you%20will%20discover%20data%20in%20ML%2C%20labeled%20and%20unlabeled%20data%2C%20and%20data%20features.%20Next%2C%20you%20will%20delve%20into%20key%20methods%20and%20techniques%2C%20such%20as%20regression%2C%20binary%20classification%2C%20multi-class%20classification%2C%20and%20clustering.%20Finally%2C%20you%20will%20focus%20on%20the%20features%2C%20advantages%2C%20and%20disadvantages%20of%20supervised%20and%20unsupervised%20learning%2C%20and%20the%20purpose%20of%20deep%20learning.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Artificial%20Intelligence%20Principles%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20learn%20about%20AI%20principles%2C%20beginning%20with%20fairness%2C%20reliability%2C%20and%20safety%20in%20AI%20algorithms%2C%20privacy%20and%20security%20for%20responsible%20AI%2C%20and%20inclusiveness%2C%20transparency%2C%20and%20accountability%20in%20AI%20algorithms.%20Then%20you%E2%80%99ll%20dig%20into%20Azure%20AI%E2%80%99s%20capabilities%2C%20Machine%20Language%20Operations%20(MLOps)%2C%20Azure%20AI%20model%20management%2C%20and%20Azure%20AI%20model%20training.%20Finally%2C%20you%E2%80%99ll%20explore%20key%20concepts%20surrounding%20Azure%20AI%20content%20safety%20and%20Azure%20reinforcement%20learning.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Machine%20Learning%20with%20Azure%20AI%22%2C%22desc%22%3A%22In%20this%20course%2C%20you%20will%20discover%20Azure%20AI%20and%20ML%20services%2C%20beginning%20with%20the%20features%20and%20capabilities%20of%20Azure%20Machine%20Learning%20Studio%20and%20Azure%20OpenAI%20Studio.%20Then%20you%20will%20dig%20into%20how%20to%20create%20an%20Azure%20Machine%20Learning%20Studio%20account%20and%20Azure%20AI%20service%20resources.%20Next%2C%20you%20will%20investigate%20Azure%20AI%20services%2C%20authentication%20for%20Azure%20AI%20services%2C%20and%20Azure%20ML%20workloads.%20Finally%2C%20you%20will%20explore%20compute%20resources%2C%20dataset%20management%2C%20and%20pipeline%20management.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Evaluating%20Models%20in%20Azure%20AI%22%2C%22desc%22%3A%22In%20this%20course%2C%20you%20will%20learn%20how%20to%20score%20and%20evaluate%20models%2C%20how%20to%20run%20pipelines%2C%20and%20how%20to%20analyze%20evaluation%20output.%20Then%20you%20will%20dig%20into%20evaluation%20results%2C%20visualizing%20data%20in%20a%20scoring%20model%2C%20assessing%20regression%20model%20results%2C%20and%20investigating%20classification%20model%20results.%20Finally%2C%20you%20will%20explore%20clustering%20model%20results%2C%20inference%20pipelines%2C%20web%20service%20output%2C%20and%20predictive%20service%20deployment.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Introduction%20to%20Azure%20Machine%20Learning%20Studio%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20explore%20Azure%20Machine%20Learning%20Studio%20and%20practice%20using%20its%20features%20for%20managing%2C%20normalizing%2C%20and%20transforming%20data%20for%20use%20in%20regression%2C%20classification%2C%20and%20clustering%20models.%20You%E2%80%99ll%20begin%20with%20Azure%20service%20experiments%2C%20classification%20evaluation%20metrics%2C%20and%20regression%20evaluation%20metrics.%20Then%2C%20you%E2%80%99ll%20learn%20how%20to%20create%20an%20Azure%20Machine%20Learning%20workspace%2C%20how%20to%20create%20a%20compute%20resource%2C%20and%20how%20to%20create%20a%20dataset.%20Finally%2C%20you%E2%80%99ll%20discover%20how%20to%20create%20model%20packages%20and%20how%20to%20deploy%20models.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Get%20started%20with%20generative%20AI%20and%20agents%20in%20Microsoft%20Foundry%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Creating%20a%20Conversational%20AI%20Bot%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20learn%20about%20conversational%20AI%20bot%20creation%2C%20beginning%20with%20conversational%20bot%20use%20cases%2C%20and%20how%20to%20create%2C%20populate%2C%20train%2C%20publish%2C%20and%20test%20a%20knowledge%20base.%20Then%20you%E2%80%99ll%20delve%20into%20creating%20a%20bot%2C%20extending%20a%20bot%20framework%2C%20testing%20a%20bot%2C%20application%20insights%2C%20and%20how%20to%20publish%20a%20bot.%20Finally%2C%20you%E2%80%99ll%20learn%20how%20to%20connect%20bots%20to%20standard%20channels%20and%20connect%20an%20application%20to%20a%20bot%2C%20and%20how%20to%20create%2C%20deploy%2C%20and%20test%20a%20virtual%20assistant.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Get%20Started%20in%20Microsoft%20Foundry%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Engineer%20Associate%3A%20Azure%20AI%20Foundry%20and%20Language%20Studio%22%2C%22desc%22%3A%22In%20this%20course%2C%20explore%20the%20basics%20of%20Azure%20Language%20Studio%20and%20Azure%20AI%20Foundry.%20Next%2C%20learn%20about%20the%20hierarchical%20structure%20of%20hubs%20and%20projects%20in%20Azure%20AI%20Foundry%2C%20create%20a%20hub%20within%20it%2C%20view%20connected%20resources%2C%20and%20use%20the%20AI%20Foundry%20Language%20playground%20to%20perform%20NLP%20tasks.%20Finally%2C%20discover%20how%20to%20provision%20a%20Language%20resource%20instance%20from%20the%20Azure%20Portal%20to%20use%20in%20Language%20Studio%20and%20AI%20Foundry.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Microsoft%20Foundry%20to%20Access%20Azure%20AI%20Services%22%2C%22desc%22%3A%22If%20you're%20building%20AI%20solutions%20on%20Azure%2C%20Microsoft%20Foundry%20provides%20a%20single%20environment%20to%20manage%20the%20full%20lifecycle%2C%20from%20experimentation%20to%20deployment.%20It%20offers%20streamlined%20access%20to%20large%20language%20models%2C%20organized%20project%20management%2C%20and%20the%20flexibility%20to%20work%20through%20the%20portal%20or%20directly%20in%20code.%20In%20this%20course%2C%20explore%20Microsoft%20Foundry%2C%20beginning%20with%20a%20quick%20tour%20of%20Azure%20AI%20Services%2C%20its%20portals%2C%20and%20the%20process%20of%20creating%20a%20resource%20and%20project.%20Next%2C%20learn%20about%20the%20two%20types%20of%20projects%20supported%20by%20Microsoft%20Foundry%2C%20including%20Foundry%20projects%20and%20hub-based%20projects.%20Finally%2C%20discover%20how%20to%20use%20the%20model%20catalog%20to%20deploy%20your%20first%20model%2C%20view%20deployment%20details%2C%20and%20access%20the%20deployed%20model.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Integrate%20Azure%20AI%20Immersive%20Reader%20Into%20Your%20Application%20by%20Using%20Its%20SDK%20%5BGuided%5D%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Azure%20Natural%20Language%20Processing%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20learn%20about%20NLP%20in%20Azure%2C%20use%20cases%20for%20NLP%2C%20the%20Azure%20AI%20language%20service%2C%20and%20the%20Azure%20AI%20speech%20service.%20Then%20you%E2%80%99ll%20explore%20working%20with%20Azure%20Text%20Analytics%2C%20key%20phrase%20extraction%2C%20named%20entity%20recognition%20(NER)%2C%20and%20sentiment%20analysis%20and%20opinion%20mining.%20Finally%2C%20you%E2%80%99ll%20discover%20how%20to%20train%20a%20language%20model%2C%20features%20of%20the%20Azure%20AI%20Translator%20Service%2C%20how%20to%20translate%20text%2C%20and%20how%20to%20translate%20speech.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Analyze%20and%20Generate%20Text-Based%20Sentiment%20by%20Using%20Azure%20AI%20Services%20%5BGuided%5D%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Get%20started%20with%20computer%20vision%20in%20Microsoft%20Foundry%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Working%20with%20AI%20Vision%22%2C%22desc%22%3A%22In%20this%20course%2C%20you%20will%20continue%20to%20work%20with%20Azure%20AI%20Vision%2C%20beginning%20with%20facial%20detection%20and%20analysis%20and%20the%20Azure%20AI%20Video%20Indexer%20service.%20Then%20you%20will%20discover%20key%20aspects%20of%20face%20and%20age%20detection%20and%20find%20out%20how%20to%20identify%20faces%20in%20videos.%20Next%2C%20you%20will%20learn%20how%20to%20use%20Face%20service%20to%20detect%20and%20analyze%20faces%20and%20verify.%20Finally%2C%20you%20will%20investigate%20Azure%20AI%20vision%20Spatial%20Analysis%20and%20work%20with%20the%20Spatial%20Analysis%20container.%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Generate%20Image%20Descriptions%20from%20Text%20by%20Using%20Azure%20AI%20Services%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Explore%20Document%20Processing%20in%20Azure%20AI's%20Document%20Intelligence%20Studio%20%5BGuided%5D2%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Azure%20AI%20Fundamentals%3A%20Azure%20Document%20%26%20Optical%20Character%20Recognition%22%2C%22desc%22%3A%22In%20this%20course%2C%20you'll%20learn%20about%20Azure%20AI%E2%80%99s%20document%20and%20optical%20character%20recognition%20(OCR)%20services%2C%20beginning%20with%20key%20features%20of%20the%20Azure%20Optical%20Character%20Recognition%20API%20and%20how%20to%20read%20text%20from%20various%20sources%2C%20including%20photographs%20and%20digitized%20documents.%20Then%20you%E2%80%99ll%20explore%20the%20Azure%20Document%20Intelligence%20Service%20and%20how%20to%20work%20with%20Azure%20AI%20Document%20Intelligence.%20Finally%2C%20you%E2%80%99ll%20delve%20into%20the%20Read%20API%2C%20the%20pre-built%20receipt%20model%2C%20the%20customer%20form%20recognizer%20model%2C%20how%20to%20identify%20fields%20on%20a%20receipt%2C%20and%20how%20to%20process%20tables%20in%20scanned%20forms%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+# Multi-Agent AI Cybersecurity Framework
 
-<div align="center">
+An automated AI security framework featuring two specialized, autonomous agents built in pure Python. This framework coordinates an offensive **Penetration Testing Agent** to execute infrastructure scans and a defensive **Cyber Analysis Agent** to evaluate outputs and compile actionable remediation reports. 
 
-<img src="https://github.com/DanAlan-Tech.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
-
-
-
-**Daniel Alejandro**
-
-*Aspiring IT Administrator and Security Professional*
-
-[![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DanAlanTech@outlook.com)
-
-</div>
+By avoiding heavy third-party framework orchestration dependencies, this architecture grants security engineers direct control over script executions, prompt styling, and custom tool integrations.
 
 ---
 
-## Professional Summary
+## 🚀 Key Features
 
-Aspiring IT Administrator and Security Professional with a solid foundation in network infrastructure, system maintenance, and cybersecurity principles. Tech-savvy and detail-oriented, with hands-on experience configuring secure networks, managing user access, and troubleshooting complex hardware and software issues. Proven ability to quickly master new technologies, implement industry best practices, and support organizational security protocols. Committed to protecting digital assets, maximizing system uptime, and delivering high-quality technical support in a fast-paced environment.
-
----
-
-## Skills Learned
-
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
-
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0969da?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-0969da?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs-0969da?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-0969da?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-0969da?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square) ![Network+](https://img.shields.io/badge/Network%2B-0969da?style=flat-square)
-
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-0969da?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-0969da?style=flat-square) ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square) ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-0969da?style=flat-square)
-
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-0969da?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0969da?style=flat-square)  ![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0969da?style=flat-square)
-
-🛠️ Other Skills: ![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0969da?style=flat-square)
+* **Multi-Agent Orchestration**: Native Python state loop managing handoffs between offensive and defensive agents.
+* **Autonomous Tool Routing**: Automated parsing of structured JSON decisions to deploy standard security tooling.
+* **Input Defense & Guardrails**: Strict regex-based shell injection defense and input sanitization layers.
+* **Zero Heavy Dependencies**: Lightweight, transparent code infrastructure using standard Python libraries.
 
 ---
 
-## 🏆 Certifications & Digital Badges
+## 🛠️ Framework Architecture
 
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
-| CompTIA A+ Core 1: Networking Concepts & Configurations | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/5ef5066f-add4-470d-add7-1d1f0de7eae2#acc.hDmt09gG) | — |
-| CompTIA Tech+: Operating Systems Mastery | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/449032e6-38c9-44eb-9aaa-7f9e42e2731d#acc.sKaDqR1p) | — |
-| CompTIA IT Fundamentals: Networking & Wireless Technologies | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/9f782da1-80f7-478c-9ccb-fd4bbf71b7a6#acc.WO94ltIy) | — |
-| CompTIA A+ Core 2: Desktop, Server, & Mobile Operating Systems  | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/1e00370b-b4d9-4936-8aab-13c34571f74c#acc.uDXINgJx) | — |
-| CompTIA A+ Core 1: Cable Types and Connectors | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/4c9102a6-2bf8-403b-a837-8371f79b340e#acc.yFJ5jfg6) | — |
-| CompTIA IT Fundamentals: Networking & Wireless Technologies | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/9f782da1-80f7-478c-9ccb-fd4bbf71b7a6#acc.DztdnxJ6) | — |
-| CompTIA A+ Core 1: Networking Concepts & Configurations | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/5ef5066f-add4-470d-add7-1d1f0de7eae2#acc.RAKO2swV) | — |
-| CompTIA A+ Core 1: Cloud Computing Concepts | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/12f6f3f3-5688-4511-9e04-b69671c024d2#acc.vQCi2kdR) | — |
-| Introduction to Programming Languages | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/7fa91e24-007e-45c0-9f05-98af63f5c676#acc.Gqih9AZm) | — |
-| CompTIA A+ Core 2: Communication & Professionalism  | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/7a3207b9-bba8-483c-8549-3342a0d9e604#acc.Q180sn7O) | — |
-| Making Difficult Conversations Meaningful | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/c15183ce-348f-45d6-b9e0-1eabd4e7be01#acc.QVb7adep) | — |
-| Pathways Commitment | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/6c-RAlwHQe-ZcKXje5cuXQ?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
-| Azure AI Fundamentals: Artificial Intelligence Principles | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/96d5fc3c-bdc7-4fae-8b41-83faa440f870#acc.Ax18sGML) | — |
-| Azure AI Fundamentals: Artificial Intelligence Concepts | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/b1c25fd1-3ca5-4d6f-b0e2-c42b4a9f98ea#acc.Ks4TLxV5) | — |
-| Azure AI Fundamentals: Evaluating Models in Azure AI | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/e3e1b9dc-e4de-46c6-831c-58c5d848cf58#acc.hyDrej0J) | — |
-| Azure AI Fundamentals: Machine Learning with Azure AI | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/72777b11-cd69-424c-8f6e-ae4922a7c509#acc.tOMlEieL) | — |
-| Azure AI Fundamentals: Creating a Conversational AI Bot | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/23601a26-8cde-49b0-af66-cf29f1e2640d#acc.LZfxQTEW) | — |
-| Azure AI Fundamentals: Introduction to Azure Machine Learning Studio | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/417d81f0-9bbe-46a9-9c7f-7a054d6469c9#acc.EPd2NU8r) | — |
-| Microsoft Foundry to Access Azure AI Services2 | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/dd2a7553-45c2-4332-a46c-d24239e2760c#acc.GRp8tB51) | — |
-| Azure AI Fundamentals: Azure Document & Optical Character Recognition | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/fa423f98-fcdd-4248-adad-6e7e42fa8909#acc.kKV6mBYJ) | — |
-|  Azure AI Fundamentals: Working with AI Vision | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/50e7ab8d-8784-4d24-92f8-d03735b3605d#acc.CjWgKDUb) | — |
-| Azure AI Fundamentals: Azure Natural Language Processing | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/4d7f2504-7b8a-41ee-88ae-3f20be0e2f67#acc.T4DXn2zW) | — |
-|  Azure AI Engineer Associate: Azure AI Foundry and Language Studio | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/3b260bd5-64cd-4f7f-a378-625f692b1ad8#acc.SPecl0pZ) | — |
+The ecosystem functions in three primary sequential phases:
+1. **Discovery (Penetration Testing Agent)**: Evaluates targets using structured tools and logs raw execution telemetry.
+2. **Handoff & Context Assembly**: Aggregates disparate log inputs into standard markdown payload contexts.
+3. **Analysis (Cyber Analysis Agent)**: Assesses exposure levels, maps attack vectors, and structures strategic patch playbooks.
 
 ---
 
-## Course Portfolio
+## 📦 Component Implementation
 
-<details>
-<summary><strong>Course 1: Networking I</strong></summary>
+### 1. Secure Execution Tools (`kali_scripts.py`)
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Networking & Wireless Technologies | explore concepts surrounding networking and wireless technologies, including the basics of networking and Internet protocols. Next, learn about the common protocols used every day for browsing the Internet and sending emails. Finally, examine networking devices, firewalls, and wireless technologies, as well as considerations for wireless quality and wireless best practices | ✅ Complete | — |
-| Networking Fundamentals | explore networking fundamentals, beginning with networking ports and protocols, TCP vs. UDP, switches and routers, access points, repeaters, and extenders. Next, learn about patch panels, firewalls, Power over Ethernet (PoE), hubs and bridges, and cable and Digital Subscriber Line (DSL) modems. Finally, examine optical network terminals (ONTs), network interface cards (NICs), software-defined networking (SDN), network topologies, and subnetting | ✅ Complete | — |
-| At-Home Graded Lab: Configure Remote Desktop Access | — | ✅ Complete | — |
-| At-Home Graded Lab: Perform Network Analysis | — | ✅ Complete | — |
-| Networking Concepts & Configurations | Explore the basics of IP addressing and networking concepts such as Domain Name System (DNS) and Dynamic Host Configuration Protocol (DHCP). Begin with an overview of DNS and its benefits. Then take a closer look at the DHCP, its features, and the concept of reservations. Next, discover the use of virtual private networks (VPNs) and look at virtual local area networks (VLANs). Finally, explore the various networking tools including crimpers, Wi-Fi analyzers, and loopback plugs | ✅ Complete | — |
-| At-Home Graded Lab: Gain Remote Access to a Windows System | — | ✅ Complete | — |
-| At-Home Graded Lab: Perform Network Troubleshooting | — | ✅ Complete | — |
-| CompTIA A+ Core 1: Cloud Computing Concepts | In this course, learn about cloud computing concepts, beginning with the benefits of cloud computing, cloud services cost implications, and cloud models. Next, explore Infrastructure as a Service (IaaS), Software as a Service (SaaS), and Platform as a Service (PaaS). Finally, examine shared resources and file synchronization, measured and metered services, elasticity, availability, multitenancy, and how to create a cloud storage account. | ✅ Complete | — |
-| At-Home Graded Lab: Introduction to the AWS Cloud | — | ✅ Complete | — |
-| CompTIA A+ Core 2: Communication & Professionalism | In this course, explore how professional communication, cultural sensitivity, and ethical handling of information contribute to outstanding support experiences that build trust across diverse environments. Next, discover effective strategies for managing time wisely, documenting support interactions thoroughly, de-escalating customer conflicts gracefully, and creating intuitive self-service tools like FAQs, tutorials, and chatbots. Finally, learn to build strong rapport through active listening, practice empathetic and jargon-free communication, follow through with ownership of issues, and gather feedback that fuels ongoing improvements in service delivery. | ✅ Complete | — |
-| Making Difficult Conversations Meaningful | In this course, you'll learn steps to prepare yourself for handling difficult conversations. You’ll also learn the key elements of being aware of your emotions before a conversation goes out of control as well as strategies that will help you effectively tackle difficult conversations in almost any situation. Finally, you’ll learn techniques to end difficult conversations on a positive note. | ✅ Complete | — |
-| CompTIA A+ Core 2: Desktop, Server, & Mobile Operating Systems | Use this course to learn about common OS types and how to perform OS installations and upgrades in a diverse OS environment. Begin by exploring the features of Windows, Linux, macOS, ChromeOS, and mobile device operating systems. | ✅ Complete | — |
-| At-Home Graded Lab: Perform a Clean Installation of Windows 10 | — | ✅ Complete | — |
-| At-Home Graded Lab: Use Operating System Tools and Features At-Home Gra | — | ✅ Complete | — |
-| CompTIA Tech+: Operating Systems Mastery | In this course, explore the foundations of operating systems, including essential concepts and hands-on installation and configuration techniques for Windows, Linux, and macOS operating systems. Next, learn how to manage file systems, processes, and user interfaces, and strengthen security while troubleshooting system issues and understanding the interactions of hardware and software. | ✅ Complete | — |
-| CompTIA IT Fundamentals: Networking & Wireless Technologies | In this course, explore concepts surrounding networking and wireless technologies, including the basics of networking and Internet protocols. Next, learn about the common protocols used every day for browsing the Internet and sending emails. | ✅ Complete | — |
-| CompTIA A+ Core 1: Networking Concepts & Configurations | Explore the basics of IP addressing and networking concepts such as Domain Name System (DNS) and Dynamic Host Configuration Protocol (DHCP). Begin with an overview of DNS and its benefits. Then take a closer look at the DHCP, its features, and the concept of reservations. Next, discover the use of virtual private networks (VPNs) and look at virtual local area networks (VLANs). Finally, explore the various networking tools including crimpers, Wi-Fi analyzers, and loopback plugs. | ✅ Complete | — |
-| At-Home Graded Lab: AI in the IT Industry: Automating and Optimizing IT Operations | — | ✅ Complete | — |
-| Introduction to Programming Languages | In this course, you'll discover the basics of programming languages, beginning with the file format used in programming, and basic features of various languages. Then you'll learn about the basic coding process, compilers, interpreters, and browsers, and the basic process of testing your programs. Finally, you'll learn about high-level languages and the various elements that comprise all computer programming languages. | ✅ Complete | — |
-| At-Home Graded Lab: Create a Basic Script in Windows PowerShell | — | ✅ Complete | — |
-| Fundamental AI Concepts | This module introduces common AI workloads and their corresponding Azure AI Services. It also introduces Microsoft's Responsible AI policies. | ✅ Complete | — |
+This core module handles process execution and enforces strict parameter sanitization to block malicious command injections (`&`, `;`, `|`, `$`).
 
-</details>
+```python
+import subprocess
+import re
+import shlex
+import os
 
-<details>
-<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+class KaliScripts:
+    """Secure automation scripts for Kali Linux pentesting tools."""
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Azure AI Fundamentals: Artificial Intelligence Concepts | In this course, you will explore key concepts of AI, beginning with ML types. Then you will discover data in ML, labeled and unlabeled data, and data features. Next, you will delve into key methods and techniques, such as regression, binary classification, multi-class classification, and clustering. Finally, you will focus on the features, advantages, and disadvantages of supervised and unsupervised learning, and the purpose of deep learning. | ✅ Complete | — |
-| Azure AI Fundamentals: Artificial Intelligence Principles | In this course, you'll learn about AI principles, beginning with fairness, reliability, and safety in AI algorithms, privacy and security for responsible AI, and inclusiveness, transparency, and accountability in AI algorithms. Then you’ll dig into Azure AI’s capabilities, Machine Language Operations (MLOps), Azure AI model management, and Azure AI model training. Finally, you’ll explore key concepts surrounding Azure AI content safety and Azure reinforcement learning. | ✅ Complete | — |
-| Azure AI Fundamentals: Machine Learning with Azure AI | In this course, you will discover Azure AI and ML services, beginning with the features and capabilities of Azure Machine Learning Studio and Azure OpenAI Studio. Then you will dig into how to create an Azure Machine Learning Studio account and Azure AI service resources. Next, you will investigate Azure AI services, authentication for Azure AI services, and Azure ML workloads. Finally, you will explore compute resources, dataset management, and pipeline management. | ✅ Complete | — |
-| Azure AI Fundamentals: Evaluating Models in Azure AI | In this course, you will learn how to score and evaluate models, how to run pipelines, and how to analyze evaluation output. Then you will dig into evaluation results, visualizing data in a scoring model, assessing regression model results, and investigating classification model results. Finally, you will explore clustering model results, inference pipelines, web service output, and predictive service deployment. | ✅ Complete | — |
-| Azure AI Fundamentals: Introduction to Azure Machine Learning Studio | In this course, you'll explore Azure Machine Learning Studio and practice using its features for managing, normalizing, and transforming data for use in regression, classification, and clustering models. You’ll begin with Azure service experiments, classification evaluation metrics, and regression evaluation metrics. Then, you’ll learn how to create an Azure Machine Learning workspace, how to create a compute resource, and how to create a dataset. Finally, you’ll discover how to create model packages and how to deploy models. | ✅ Complete | — |
-| At-Home Graded Lab: Get started with generative AI and agents in Microsoft Foundry | — | ✅ Complete | — |
-| Azure AI Fundamentals: Creating a Conversational AI Bot | In this course, you'll learn about conversational AI bot creation, beginning with conversational bot use cases, and how to create, populate, train, publish, and test a knowledge base. Then you’ll delve into creating a bot, extending a bot framework, testing a bot, application insights, and how to publish a bot. Finally, you’ll learn how to connect bots to standard channels and connect an application to a bot, and how to create, deploy, and test a virtual assistant. | ✅ Complete | — |
-| At-Home Graded Lab: Get Started in Microsoft Foundry | — | ✅ Complete | — |
-| Azure AI Engineer Associate: Azure AI Foundry and Language Studio | In this course, explore the basics of Azure Language Studio and Azure AI Foundry. Next, learn about the hierarchical structure of hubs and projects in Azure AI Foundry, create a hub within it, view connected resources, and use the AI Foundry Language playground to perform NLP tasks. Finally, discover how to provision a Language resource instance from the Azure Portal to use in Language Studio and AI Foundry. | ✅ Complete | — |
-| Microsoft Foundry to Access Azure AI Services | If you're building AI solutions on Azure, Microsoft Foundry provides a single environment to manage the full lifecycle, from experimentation to deployment. It offers streamlined access to large language models, organized project management, and the flexibility to work through the portal or directly in code. In this course, explore Microsoft Foundry, beginning with a quick tour of Azure AI Services, its portals, and the process of creating a resource and project. Next, learn about the two types of projects supported by Microsoft Foundry, including Foundry projects and hub-based projects. Finally, discover how to use the model catalog to deploy your first model, view deployment details, and access the deployed model. | ✅ Complete | — |
-| At-Home Graded Lab: Integrate Azure AI Immersive Reader Into Your Application by Using Its SDK [Guided] | — | ✅ Complete | — |
-| Azure AI Fundamentals: Azure Natural Language Processing | In this course, you'll learn about NLP in Azure, use cases for NLP, the Azure AI language service, and the Azure AI speech service. Then you’ll explore working with Azure Text Analytics, key phrase extraction, named entity recognition (NER), and sentiment analysis and opinion mining. Finally, you’ll discover how to train a language model, features of the Azure AI Translator Service, how to translate text, and how to translate speech. | ✅ Complete | — |
-| At-Home Graded Lab: Analyze and Generate Text-Based Sentiment by Using Azure AI Services [Guided] | — | ✅ Complete | — |
-| At-Home Graded Lab: Get started with computer vision in Microsoft Foundry | — | ✅ Complete | — |
-| Azure AI Fundamentals: Working with AI Vision | In this course, you will continue to work with Azure AI Vision, beginning with facial detection and analysis and the Azure AI Video Indexer service. Then you will discover key aspects of face and age detection and find out how to identify faces in videos. Next, you will learn how to use Face service to detect and analyze faces and verify. Finally, you will investigate Azure AI vision Spatial Analysis and work with the Spatial Analysis container. | ✅ Complete | — |
-| At-Home Graded Lab: Generate Image Descriptions from Text by Using Azure AI Services | — | ✅ Complete | — |
-| At-Home Graded Lab: Explore Document Processing in Azure AI's Document Intelligence Studio [Guided]2 | — | ✅ Complete | — |
-| Azure AI Fundamentals: Azure Document & Optical Character Recognition | In this course, you'll learn about Azure AI’s document and optical character recognition (OCR) services, beginning with key features of the Azure Optical Character Recognition API and how to read text from various sources, including photographs and digitized documents. Then you’ll explore the Azure Document Intelligence Service and how to work with Azure AI Document Intelligence. Finally, you’ll delve into the Read API, the pre-built receipt model, the customer form recognizer model, how to identify fields on a receipt, and how to process tables in scanned forms | ✅ Complete | — |
+    @staticmethod
+    def validate_target(target: str) -> str:
+        """Validates that input is a clean IP address or domain name."""
+        clean = target.strip()
+        if not re.match(r"^[a-zA-Z0-9.-]+$", clean):
+            raise ValueError(f"Malicious target input detected: {clean}")
+        return clean
 
-</details>
+    @classmethod
+    def run_nmap_stealth(cls, target: str) -> str:
+        """Runs a fast, stealthy Syn port scan on common ports."""
+        target = cls.validate_target(target)
+        cmd = ["nmap", "-sS", "-F", "--open", target]
+        return cls._execute(cmd)
 
-<details>
-<summary><strong>Course 3: Operating Systems I</strong></summary>
+    @classmethod
+    def run_sqlmap_auto(cls, url: str) -> str:
+        """Scans a URL for SQL injection vulnerabilities non-interactively."""
+        if not re.match(r"^https?://[a-zA-Z0-9.-]+(?:/[^\s]*)?$", url):
+            return "Error: Invalid URL format provided for SQLMap."
+        
+        cmd = ["sqlmap", "-u", url, "--batch", "--banner", "--risk=1", "--level=1"]
+        return cls._execute(cmd, timeout=400)
 
-*No labs added yet.*
+    @classmethod
+    def run_hydra_ssh(cls, target: str, username: str, wordlist_path: str) -> str:
+        """Attempts an automated SSH brute force scan against a target."""
+        target = cls.validate_target(target)
+        if not os.path.exists(wordlist_path):
+            return f"Error: Wordlist not found at {wordlist_path}"
+        
+        cmd = ["hydra", "-l", username, "-P", wordlist_path, f"ssh://{target}", "-t", "4"]
+        return cls._execute(cmd, timeout=300)
 
-</details>
+    @classmethod
+    def run_searchsploit(cls, service_name: str) -> str:
+        """Queries the Exploit Database for known public exploits."""
+        clean_service = re.sub(r"[^a-zA-Z0-9\s-]", "", service_name)
+        cmd = ["searchsploit", clean_service]
+        return cls._execute(cmd)
 
-<details>
-<summary><strong>Course 4: Security I</strong></summary>
+    @staticmethod
+    def _execute(cmd: list, timeout: int = 200) -> str:
+        try:
+            result = subprocess.run(
+                cmd, capture_output=True, text=True, timeout=timeout
+            )
+            if result.returncode != 0 and not result.stdout:
+                return f"Execution Error (Code {result.returncode}): {result.stderr}"
+            return result.stdout
+        except subprocess.TimeoutExpired:
+            return "Error: Script execution timed out."
+        except FileNotFoundError:
+            return f"Error: The system command '{cmd[0]}' is not installed in this environment."
+```
 
-*No labs added yet.*
+### 2. Multi-Agent AI Core Framework (`agent_framework.py`)
 
-</details>
+Manages individual agent prompt context profiles and routes automated decision cycles.
 
-<details>
-<summary><strong>Course 5: Server I</strong></summary>
+```python
+import json
 
-*No labs added yet.*
+class CyberAgentFramework:
+    def __init__(self, target_asset: str, llm_client=None):
+        self.target = target_asset
+        self.llm = llm_client
+        self.history = []
 
-</details>
+    def get_pen_tester_prompt(self, objective: str) -> str:
+        return f"""
+        You are an automated Penetration Testing AI Agent. Your objective: {objective}
+        Target Asset: {self.target}
 
-<details>
-<summary><strong>Course 6: Networking & Security I</strong></summary>
+        Available Tools:
+        1. "run_nmap_stealth" -> Scans for open ports.
+        2. "run_sqlmap_auto" -> Tests a web URL for SQL Injection. Input parameter format: "url"
+        3. "run_hydra_ssh" -> Tests SSH login strength. Input parameters format: "username", "wordlist_path"
+        4. "run_searchsploit" -> Searches for public exploits. Input parameter format: "service_name"
 
-*No labs added yet.*
+        You must respond in pure JSON. Choose ONE tool to execute next.
+        Format: {{"reasoning": "Why you chose this", "tool_name": "name", "arguments": {{"arg_name": "value"}}}}
+        If your task is complete or you cannot proceed, respond with: {{"status": "COMPLETE", "findings": "Summary"}}
+        """
 
-</details>
+    def get_analyst_prompt(self, raw_tool_logs: str) -> str:
+        return f"""
+        You are a Cyber Security Analysis AI Agent. 
+        Review the following raw output logs collected from tool scans on the asset: {self.target}.
+
+        Logs to Analyze:
+        ---
+        {raw_tool_logs}
+        ---
+
+        Provide a structured assessment report covering:
+        1. Identified Vulnerabilities & Risk Levels (High/Med/Low)
+        2. Threat Vectors and potential impacts
+        3. Immediate, actionable remediation and patching recommendations.
+        """
+
+    def execute_pentest_loop(self, objective: str, max_turns: int = 3):
+        """Orchestrates the Pentesting agent's discovery phase."""
+        print(f"[*] Starting Penetration Testing Session against: {self.target}")
+        context_prompt = self.get_pen_tester_prompt(objective)
+        collected_logs = ""
+
+        for turn in range(max_turns):
+            print(f"\n[Turn {turn + 1}] Querying Penetration Testing Agent...")
+            
+            # Simulated agent logic loop; integrate your LLM client chat completions here:
+            if turn == 0:
+                agent_decision = {
+                    "reasoning": "Need to map the target attack surface first.",
+                    "tool_name": "run_nmap_stealth",
+                    "arguments": {}
+                }
+            elif turn == 1:
+                agent_decision = {
+                    "reasoning": "Found port 22 open. Testing for weak remote admin credentials.",
+                    "tool_name": "run_hydra_ssh",
+                    "arguments": {"username": "root", "wordlist_path": "/usr/share/wordlists/rockyou.txt"}
+                }
+            else:
+                agent_decision = {"status": "COMPLETE", "findings": "Scans finished. Potential weak SSH configs flagged."}
+
+            if "status" in agent_decision and agent_decision["status"] == "COMPLETE":
+                print(f"[+] Pentest Agent declared completion: {agent_decision['findings']}")
+                break
+
+            tool_name = agent_decision.get("tool_name")
+            args = agent_decision.get("arguments", {})
+            print(f"[Agent Decision]: Running {tool_name} with args: {args}")
+
+            try:
+                if tool_name == "run_nmap_stealth":
+                    output = KaliScripts.run_nmap_stealth(self.target)
+                elif tool_name == "run_sqlmap_auto":
+                    output = KaliScripts.run_sqlmap_auto(args.get("url"))
+                elif tool_name == "run_hydra_ssh":
+                    output = KaliScripts.run_hydra_ssh(self.target, args.get("username"), args.get("wordlist_path"))
+                elif tool_name == "run_searchsploit":
+                    output = KaliScripts.run_searchsploit(args.get("service_name"))
+                else:
+                    output = f"Error: Tool '{tool_name}' is unauthorized or unknown."
+            except Exception as e:
+                output = f"Execution Exception: {str(e)}"
+
+            print(f"[{tool_name} Execution Complete. Data logged.]")
+            collected_logs += f"\n--- Script execution output for {tool_name} ---\n{output}\n"
+
+        return collected_logs
+
+    def run_analysis_phase(self, raw_logs: str):
+        """Hands off the penetration testing telemetry data to the analyst agent."""
+        print("\n[*] Handing off raw intelligence to Cyber Analysis Agent...")
+        analyst_prompt = self.get_analyst_prompt(raw_logs)
+        print("[+] Analyst Agent prompt generated successfully. Framework ready to output final report mapping.")
+        return analyst_prompt
+```
 
 ---
 
-<div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
-</div>
+## 🏁 Getting Started
+
+To verify the end-to-end orchestration orchestration logic out of the box, run the module directly:
+
+```python
+if __name__ == "__main__":
+    # Define a safe domain or IP you own or have legal authorization to test
+    TARGET_ASSET = "192.168.1.55"
+    MISSION = "Audit open attack surfaces and verify host resilience."
+
+    # Initialize the framework
+    framework = CyberAgentFramework(target_asset=TARGET_ASSET)
+    
+    # Phase 1: Automated Pentester Runs the Scripts
+    raw_telemetry = framework.execute_pentest_loop(objective=MISSION, max_turns=3)
+    
+    # Phase 2: Cyber Analyst Builds a Vulnerability & Patch Report
+    analyst_context = framework.run_analysis_phase(raw_telemetry)
+```
+
+---
+
+## 🛡️ Safety, Sandboxing, & Security Guardrails
+
+Running autonomous agents with access to offensive tooling poses real operational risks. Strictly implement the following deployment checklist before production use:
+
+* **Docker Network Isolation**: Build your agent execution container with a restricted bridge network. Enforce specific `iptables` rules to explicitly drop unauthorized outbound routes to the public internet.
+* **Strict Parameter Sanitization**: Keep `KaliScripts.validate_target` active and expand it to cover all custom inputs. This locks down parameters against characters like `;`, `&`, `|`, and `$`, stopping rogue tool logic or prompt-injection exploits from breaking out of the container workspace.
+* **Non-Root Runtime Constraints**: Never run this orchestration suite under system root privileges. Enforce a dedicated, low-privilege service account inside your Kali Linux container ecosystem.
+
+---
+
+## ⚖️ Disclaimer
+
+This framework is developed strictly for **authorized security testing, educational validation, and defense hardening optimization**. Executing offensive penetration scanning tools against infrastructure without explicit, written prior authorization from the asset owners is illegal. Developers assume no liability for misuse or damage caused by this orchestration software.
