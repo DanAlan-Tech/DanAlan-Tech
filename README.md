@@ -182,6 +182,3 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 
 ---
 
-<div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
-</div>
