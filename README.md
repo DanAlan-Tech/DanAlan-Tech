@@ -40,6 +40,10 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
+| Microsoft Certified: Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/DanielAlejandro-7027/E8BE4378946D71DB?sharingId=4CC807DA4E9F0A0D) | — |
+| Pathways Legacy | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/9Y5IUBzlS5yBAbTvPU5cXw?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
+| Pathways Network | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/GOXudA6RTM67xC4CKGT1pw?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
+| Pathways Commitment | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/6c-RAlwHQe-ZcKXje5cuXQ?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
 | CompTIA A+ Core 1: Networking Concepts & Configurations | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/5ef5066f-add4-470d-add7-1d1f0de7eae2#acc.hDmt09gG) | — |
 | CompTIA Tech+: Operating Systems Mastery | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/449032e6-38c9-44eb-9aaa-7f9e42e2731d#acc.sKaDqR1p) | — |
 | CompTIA IT Fundamentals: Networking & Wireless Technologies | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/9f782da1-80f7-478c-9ccb-fd4bbf71b7a6#acc.WO94ltIy) | — |
@@ -51,7 +55,6 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 | Introduction to Programming Languages | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/7fa91e24-007e-45c0-9f05-98af63f5c676#acc.Gqih9AZm) | — |
 | CompTIA A+ Core 2: Communication & Professionalism  | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/7a3207b9-bba8-483c-8549-3342a0d9e604#acc.Q180sn7O) | — |
 | Making Difficult Conversations Meaningful | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/c15183ce-348f-45d6-b9e0-1eabd4e7be01#acc.QVb7adep) | — |
-| Pathways Commitment | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/6c-RAlwHQe-ZcKXje5cuXQ?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
 | Azure AI Fundamentals: Artificial Intelligence Principles | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/96d5fc3c-bdc7-4fae-8b41-83faa440f870#acc.Ax18sGML) | — |
 | Azure AI Fundamentals: Artificial Intelligence Concepts | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/b1c25fd1-3ca5-4d6f-b0e2-c42b4a9f98ea#acc.Ks4TLxV5) | — |
 | Azure AI Fundamentals: Evaluating Models in Azure AI | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/e3e1b9dc-e4de-46c6-831c-58c5d848cf58#acc.hyDrej0J) | — |
@@ -63,7 +66,6 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 |  Azure AI Fundamentals: Working with AI Vision | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/50e7ab8d-8784-4d24-92f8-d03735b3605d#acc.CjWgKDUb) | — |
 | Azure AI Fundamentals: Azure Natural Language Processing | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/4d7f2504-7b8a-41ee-88ae-3f20be0e2f67#acc.T4DXn2zW) | — |
 |  Azure AI Engineer Associate: Azure AI Foundry and Language Studio | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/3b260bd5-64cd-4f7f-a378-625f692b1ad8#acc.SPecl0pZ) | — |
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/DanielAlejandro-7027/E8BE4378946D71DB?sharingId=4CC807DA4E9F0A0D) | — |
 | CompTIA Linux+: Shell Operations and Environment Management | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/3cce7d0c-6264-4aa2-b0a9-ab0efeb5841f#acc.pXGFo7ah) | — |
 | CompTIA Linux+: File Systems & Permissions Management | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/c15be481-94af-4ce5-a899-540b0e355e14#acc.4FaKVOvj) | — |
 | Introduction to Bash Scripting | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/62ddf7fd-ad09-48a9-9e21-da31c164a986#acc.EvQ5FsR2) | — |
@@ -76,8 +78,7 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 | Complex Data Types in Python: Working with Lists & Tuples in Python | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/d8a4ec16-dd58-4307-8475-cde56ec029c3#acc.VWKuHzmq) | — |
 | Bash Advanced Scripting & File I/O | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/97790a81-fedb-4b41-b5f4-faaa22e1d714#acc.kTaoeJdP) | — |
 | Functions in Python: Introduction  | SkillSoft | [Verify](https://skillsoft.digitalbadges.skillsoft.com/e920af6e-45c7-42e5-ac42-61704f4df844#acc.Q3Cws6Wq) | — |
-| Pathways Legacy | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/9Y5IUBzlS5yBAbTvPU5cXw?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
-| Pathways Network | My Computer Career | [Verify](https://badges.parchment.com/public/assertions/GOXudA6RTM67xC4CKGT1pw?utm_source=url_copy&identity__email=alandanhtx%40outlook.com) | — |
+
 
 ---
 
@@ -113,7 +114,7 @@ Aspiring IT Administrator and Security Professional with a solid foundation in n
 </details>
 
 <details>
-<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+<summary><strong>Course 2: Microsoft Azure Fundamentals</strong></summary>
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
